@@ -1,0 +1,4 @@
+# machine-learning-projects
+end to end machine learning project
+This is a machine learning model which has a accurace of 77 ercent in predicting wether a person is diabetic or not based on the dataset provided.
+I have used support vector classifier for this classification model.
